@@ -6,7 +6,7 @@
 
 ## 购买VSP
 
-![截屏2024-05-07 14.32.28](/Users/apple/Library/Application Support/typora-user-images/截屏2024-05-07 14.32.28.png)
+https://github.com/fakerUNcode/V2RAY_BUILDING_TUTORIAL_Newperson-friendly/blob/master/%E6%88%AA%E5%B1%8F2024-05-07%2014.32.28.png
 
 来到vultr官网并注册，新人充10刀送100刀，很划算。
 
@@ -16,7 +16,7 @@
 
 ## 节点相关信息
 
-![截屏2024-05-07 14.36.04](/Users/apple/Desktop/截屏2024-05-07 14.36.04.png)
+https://github.com/fakerUNcode/V2RAY_BUILDING_TUTORIAL_Newperson-friendly/blob/master/%E6%88%AA%E5%B1%8F2024-05-07%2015.42.50.png
 
 进入**server information**界面后，可以看到自己的服务器相关信息，如带宽使用量、IP地址，服务器用户名以及密码等，此时我们需要的信息🈶：username \password
 
@@ -48,7 +48,7 @@ SSH远程连接服务器，笔者使用Macos,使用终端命令即可（Linux也
 
 如果以上工具都不适用，则可以尝试vultr自带的console(在sever infomation界面)操作和下面的教程类似，但是需要使用屏幕左侧的粘贴板才能粘贴命令，无法使用快捷键，这点需要注意。
 
-![截屏2024-05-07 14.39.44](/Users/apple/Desktop/截屏2024-05-07 14.39.44.png)
+https://github.com/fakerUNcode/V2RAY_BUILDING_TUTORIAL_Newperson-friendly/blob/master/%E6%88%AA%E5%B1%8F2024-05-07%2014.39.44.png
 
 如图，以Macos为例，输入命令：
 
@@ -60,7 +60,7 @@ root即为用户名，xx.xx.xx.xx是你购买的服务器的ip地址。
 
 接下来会提示输入密码，从服务器信息粘贴输入即可：
 
-![截屏2024-05-07 14.58.48](/Users/apple/Library/Application Support/typora-user-images/截屏2024-05-07 14.58.48.png)
+https://github.com/fakerUNcode/V2RAY_BUILDING_TUTORIAL_Newperson-friendly/blob/master/%E6%88%AA%E5%B1%8F2024-05-07%2014.58.48.png
 
 显示上图信息说明连接成功。
 
