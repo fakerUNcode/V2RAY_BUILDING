@@ -16,7 +16,7 @@
 
 ## 节点相关信息
 
-![截屏2024-05-07 15.42.50](https://github.com/fakerUNcode/V2RAY_BUILDING_TUTORIAL_Newperson-friendly/blob/master/%E6%88%AA%E5%B1%8F2024-05-07%2015.42.50.png)
+![截屏2024-05-07 15.42.50](https://github.com/fakerUNcode/V2RAY_BUILDING_TUTORIAL_Newperson-friendly/blob/master/%E6%88%AA%E5%B1%8F2024-05-07%2014.36.04.png)
 
 进入**server information**界面后，可以看到自己的服务器相关信息，如带宽使用量、IP地址，服务器用户名以及密码等，此时我们需要的信息🈶：username \password
 
