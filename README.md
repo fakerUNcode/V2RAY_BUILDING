@@ -6,7 +6,7 @@
 
 ## 购买VSP
 
-![截屏2024-05-07 15.41.56](https://github.com/fakerUNcode/V2RAY_BUILDING_TUTORIAL_Newperson-friendly/blob/master/%E6%88%AA%E5%B1%8F2024-05-07%2014.58.48.png)
+![截屏2024-05-07 15.41.56](https://github.com/fakerUNcode/V2RAY_BUILDING_TUTORIAL_Newperson-friendly/blob/master/%E6%88%AA%E5%B1%8F2024-05-07%2014.32.28.png)
 
 来到vultr官网并注册，新人充10刀送100刀，很划算。
 
